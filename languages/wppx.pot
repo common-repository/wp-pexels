@@ -1,0 +1,195 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Pexels plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Pexels 2.1.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-pexels\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-09T02:21:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: wppx\n"
+
+#. Plugin Name of the plugin
+#: wpc-pexels.php:65
+#: wpc-pexels.php:69
+#: wpc-pexels.php:79
+#: wpc-pexels.php:93
+msgid "WPC Pexels"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Pexels help you search over million free photos from https://pexels.com then insert to content or set as featured image very quickly."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-pexels.php:50
+#: wpc-pexels.php:65
+#: wpc-pexels.php:197
+msgid "Pexels"
+msgstr ""
+
+#: wpc-pexels.php:80
+msgid "You can search & save the image(s) to Media Library."
+msgstr ""
+
+#: wpc-pexels.php:96
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-pexels.php:99
+msgid "Reviews"
+msgstr ""
+
+#: wpc-pexels.php:101
+msgid "Changelog"
+msgstr ""
+
+#: wpc-pexels.php:103
+msgid "Discussion"
+msgstr ""
+
+#: wpc-pexels.php:109
+msgid "How to use?"
+msgstr ""
+
+#: wpc-pexels.php:111
+#: wpc-pexels.php:166
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-pexels.php:117
+msgid "1. Press the \"Pexels\" button above editor"
+msgstr ""
+
+#: wpc-pexels.php:120
+msgid "2. Type any key to search"
+msgstr ""
+
+#: wpc-pexels.php:123
+msgid "3. Choose the photo as you want then insert or set featured"
+msgstr ""
+
+#: wpc-pexels.php:174
+msgid "Permissions check failed"
+msgstr ""
+
+#: wpc-pexels.php:283
+msgid "keyword"
+msgstr ""
+
+#: wpc-pexels.php:285
+msgid "Search"
+msgstr ""
+
+#: wpc-pexels.php:300
+msgid "Title"
+msgstr ""
+
+#: wpc-pexels.php:303
+msgid "title"
+msgstr ""
+
+#: wpc-pexels.php:307
+msgid "Caption"
+msgstr ""
+
+#: wpc-pexels.php:313
+msgid "File name"
+msgstr ""
+
+#: wpc-pexels.php:317
+msgid "Keep original file name"
+msgstr ""
+
+#: wpc-pexels.php:319
+msgid "Generate from title"
+msgstr ""
+
+#: wpc-pexels.php:325
+msgid "Size"
+msgstr ""
+
+#: wpc-pexels.php:329
+msgid "width"
+msgstr ""
+
+#: wpc-pexels.php:333
+msgid "height"
+msgstr ""
+
+#: wpc-pexels.php:337
+msgid "Alignment"
+msgstr ""
+
+#: wpc-pexels.php:341
+#: wpc-pexels.php:360
+msgid "None"
+msgstr ""
+
+#: wpc-pexels.php:344
+msgid "Left"
+msgstr ""
+
+#: wpc-pexels.php:347
+msgid "Right"
+msgstr ""
+
+#: wpc-pexels.php:350
+msgid "Center"
+msgstr ""
+
+#: wpc-pexels.php:356
+msgid "Link to"
+msgstr ""
+
+#: wpc-pexels.php:362
+msgid "Original site"
+msgstr ""
+
+#: wpc-pexels.php:364
+msgid "Original image"
+msgstr ""
+
+#: wpc-pexels.php:372
+msgid "Open in new windows"
+msgstr ""
+
+#: wpc-pexels.php:379
+msgid "Rel nofollow"
+msgstr ""
+
+#: wpc-pexels.php:387
+msgid "Saving to Media Library..."
+msgstr ""
+
+#: wpc-pexels.php:397
+msgid "Insert"
+msgstr ""
+
+#: wpc-pexels.php:405
+msgid "Save&Insert"
+msgstr ""
+
+#: wpc-pexels.php:411
+msgid "Featured"
+msgstr ""
+
+#: wpc-pexels.php:422
+msgid "Save to Media Library"
+msgstr ""
